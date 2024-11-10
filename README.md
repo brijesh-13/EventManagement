@@ -34,7 +34,7 @@ This application provides a simple event management system where users can regis
 ## Installation
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/event-management-rsvp.git
+git clone https://github.com/brijesh-13/EventManagement.git
 cd event_manager
 ```
 
